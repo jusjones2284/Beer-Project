@@ -61,8 +61,6 @@ allBeverages.forEach((div)=>{
 document.querySelector('#alert').addEventListener('click', ()=> alert('Thank you for your submission! Drink responsibly.'))
 })
 
-function beerDescription([]){
-}
 
 
 
